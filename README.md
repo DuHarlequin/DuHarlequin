@@ -14,7 +14,7 @@ Soy un **desarrollador de software y web** con un gran interés en que alguna em
 
 - **Lenguajes de programación**: C#, JavaScript, C++, HTML, CSS, PHP, SQL
 - **Frameworks y motores**: Unreal Engine 5, Unity
-- **Bases de datos**: MongoDB
+- **Bases de datos**: MongoDB y MySQL
 
 ## 📫 Conéctame
 
