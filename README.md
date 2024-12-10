@@ -1,44 +1,26 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy Cristian E. Ontiveros
 
-Soy un [tu profesión o rol, por ejemplo, "desarrollador de software", "diseñador gráfico", "ingeniero de datos"] con experiencia en [menciona tus áreas de especialización, por ejemplo, "desarrollo web", "machine learning", "diseño UX/UI"]. Me apasiona [menciona tus intereses, por ejemplo, "crear aplicaciones innovadoras", "resolver problemas complejos", "trabajar en equipo"].
+Soy un **desarrollador de software y web** con un gran interés en que alguna empresa me dé una oportunidad. Actualmente, estoy trabajando en un **videojuego de horror** y me apasiona crear experiencias interactivas.
 
 ## 🌟 Sobre Mí
 
-- 🔭 Actualmente estoy trabajando en [proyecto o empresa actual].
-- 🌱 Estoy aprendiendo [tecnología o habilidad que estás aprendiendo].
-- 👯 Me gustaría colaborar en proyectos relacionados con [temas de interés].
-- 💬 Pregúntame sobre [temas en los que eres experto].
-- 📫 Puedes contactarme en [tu_email@example.com](mailto:tu_email@example.com).
-- ⚡ Datos divertidos: [un dato curioso sobre ti].
+- 🔭 Actualmente estoy trabajando en un videojuego de horror.
+- 🌱 Estoy estudiando **MongoDB**, **Kotlin** y temas de **diseño gráfico**.
+- 👯 Me gustaría colaborar en proyectos de cualquier tema, desde videojuegos hasta corporativos.
+- 💬 Pregúntame sobre **C#**, **JavaScript**, **C++**, **HTML**, **CSS**, **PHP**, **SQL**, **Unreal Engine 5** y **Unity**.
+- ⚡ Datos divertidos: A pesar de estar relajado, muevo mucho las piernas.
 
 ## 🛠️ Habilidades
 
-- **Lenguajes de programación**: Python, JavaScript, Java
-- **Frameworks**: React, Django, Flask
-- **Herramientas**: Git, Docker, Figma
-- **Bases de datos**: MySQL, MongoDB
-
-## 📈 Proyectos Destacados
-
-### [Nombre del Proyecto 1](enlace-al-proyecto)
-Descripción breve del proyecto y su propósito.  
-- Tecnologías utilizadas: [tecnologías]
-- [Enlace a la demo o repositorio]
-
-### [Nombre del Proyecto 2](enlace-al-proyecto)
-Descripción breve del proyecto y su propósito.  
-- Tecnologías utilizadas: [tecnologías]
-- [Enlace a la demo o repositorio]
+- **Lenguajes de programación**: C#, JavaScript, C++, HTML, CSS, PHP, SQL
+- **Frameworks y motores**: Unreal Engine 5, Unity
+- **Bases de datos**: MongoDB
 
 ## 📫 Conéctame
 
-- [LinkedIn](https://www.linkedin.com/in/tu_perfil)
-- [Twitter](https://twitter.com/tu_usuario)
-- [GitHub](https://github.com/tu_usuario)
-
-## 📄 CV
-
-Puedes ver mi currículum [aquí](enlace-a-tu-cv).
+- [Instagram](https://www.instagram.com/du_harlequin/)
+- [LinkedIn](https://www.linkedin.com/in/cristian-e-ontiveros/)
+- [Currículum](https://drive.google.com/file/d/1PKfpU4mPkoH2nH30V6yA4Alue2S7LuQv/view)
 
 ---
 
